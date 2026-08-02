@@ -21,16 +21,38 @@
 | **🐍 Python** | LangGraph, LangChain, FastAPI, data pipelines |
 | **🔌 MCP & Protocols** | Model Context Protocol servers, agent-to-agent communication |
 
+### ⭐ Featured Project
+
+<table>
+<tr>
+<td>
+
+**🛰️ [OSS Radar](https://github.com/GCGH159/oss-radar)**
+
+> AI 时代，每个人都是贡献者。所有人都可以为下一个阶段添砖加瓦。
+
+Scan, track & manage your open-source contributions.
+- `scan` — discover `good first issue` / `help wanted` across repos
+- `track` — monitor all your PRs' review status via GraphQL
+- `claim` — one-click issue claiming
+- Zero dependencies, pure Python stdlib + SQLite
+
+</td>
+</tr>
+</table>
+
 ### 🌍 Open Source Contributions
 
 | Project | PR | Status |
 |:--------|:---|:------:|
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [#681](https://github.com/alibaba/open-code-review/pull/681) refactor(test): replace custom string helpers with strings.Contains | 🔵 Open |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [#8364](https://github.com/QwenLM/qwen-code/pull/8364) feat(omni): managed media storage with GC & upload cache | 🔵 Open |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [#6](https://github.com/QoderAI/better-harness/pull/6) feat(host): add Qwen Code host adapter | ✅ Merged |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [#1266](https://github.com/bytedance/deer-flow/pull/1266) docs: 添加本地启动指南文档 | ✅ Merged |
 
 ### 🚀 My Projects
 
+- **[oss-radar](https://github.com/GCGH159/oss-radar)** 🛰️ — Open-source contribution workbench (maintainer)
 - **[graph-rag-agent](https://github.com/GCGH159/graph-rag-agent)** — GraphRAG + LightRAG + Neo4j fusion for private-domain RAG reasoning
 - **[neo4j_langchain](https://github.com/GCGH159/neo4j_langchain)** — Knowledge graph construction with LangChain + Neo4j
 - **[multi-agent-texas-holdEM](https://github.com/GCGH159/multi-agent-texas-holdEM)** — Multi-agent Texas Hold'em game with LLM players
