@@ -100,10 +100,10 @@ I contribute where I can add durable value: small quality-of-life fixes, documen
 ## `> github --telemetry`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GCGH159&show_icons=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&border_color=334155&rank_icon=github&include_all_commits=true&hide_border=false" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCGH159&layout=compact&theme=transparent&title_color=60A5FA&text_color=CBD5E1&border_color=334155&hide_border=false" alt="Most used languages" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=GCGH159&show_icons=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&border_color=334155&rank_icon=github&include_all_commits=true&hide_border=false" alt="GitHub statistics" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GCGH159&layout=compact&theme=transparent&title_color=60A5FA&text_color=CBD5E1&border_color=334155&hide_border=false" alt="Most used languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=GCGH159&theme=transparent&hide_border=false&border=334155&ring=60A5FA&fire=A78BFA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=GCGH159&theme=transparent&hide_border=false&border=334155&ring=60A5FA&fire=A78BFA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
 </div>
 
 ## `> contribution_map`
