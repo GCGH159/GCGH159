@@ -1,107 +1,123 @@
-<h1 align="center">Hi 👋, I'm Chongli Jin</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=260&section=header&text=Chongli%20Jin&fontSize=62&fontColor=F8FAFC&fontAlignY=38&desc=AI%20Agent%20Engineer%20%C2%B7%20Open-Source%20Builder%20%C2%B7%20Java%20%2B%20Python&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Chongli Jin — AI Agent Engineer" />
 
-<p align="center">
-  <a href="https://github.com/GCGH159"><img src="https://img.shields.io/badge/status-building-brightgreen.svg"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GCGH159.GCGH159" alt="visitors"/>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=950&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+AI-native+tools+that+turn+complexity+into+leverage.;Exploring+agents%2C+retrieval%2C+knowledge+graphs%2C+and+developer+workflows.;Shipping+in+public.+Learning+in+the+open." alt="Typing introduction" />
+  </a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=AI+Agent+Explorer+%F0%9F%A4%96;RAG+%26+Knowledge+Graph+Enthusiast;Java+%2B+Python+Full+Stack;Always+Shipping+Something+New" alt="Typing SVG" /></a>
-</p>
+  <p>
+    <a href="https://github.com/GCGH159?tab=followers"><img src="https://img.shields.io/github/followers/GCGH159?label=Followers&style=for-the-badge&color=2563EB&labelColor=0F172A" alt="GitHub followers" /></a>
+    <a href="https://github.com/GCGH159?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-73-7C3AED?style=for-the-badge&labelColor=0F172A" alt="73 public repositories" /></a>
+    <img src="https://komarev.com/ghpvc/?username=GCGH159&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
+</div>
 
----
+<br />
 
-### 🧭 What I'm Into
+## `> whoami`
 
-| Focus | Details |
-|:------|:--------|
-| **🤖 AI Agent** | Multi-agent orchestration, agent harness design, coding agents, agent evaluation |
-| **🧠 RAG & KG** | GraphRAG, LightRAG, Neo4j knowledge graph construction, reasoning-based retrieval |
-| **☕ Java / Spring** | Spring AI, Spring Boot, enterprise-grade microservices |
-| **🐍 Python** | LangGraph, LangChain, FastAPI, data pipelines |
-| **🔌 MCP & Protocols** | Model Context Protocol servers, agent-to-agent communication |
+I am **Chongli Jin**, an engineer based in Xi'an who builds practical, AI-native software. My current work lives at the intersection of **agent systems**, **retrieval and knowledge graphs**, and **developer tooling**. I enjoy taking an ambiguous engineering problem, finding the smallest useful system, and then iterating in the open until it earns its place in a real workflow.
 
-### ⭐ Featured Project
+> **Principle:** Make intelligent systems observable, composable, and useful—not merely impressive in a demo.
 
 <table>
-<tr>
-<td>
-
-**🛰️ [OSS Radar](https://github.com/GCGH159/oss-radar)**
-
-> AI 时代，每个人都是贡献者。所有人都可以为下一个阶段添砖加瓦。
-
-Scan, track & manage your open-source contributions.
-- `scan` — discover `good first issue` / `help wanted` across repos
-- `track` — monitor all your PRs' review status via GraphQL
-- `claim` — one-click issue claiming
-- Zero dependencies, pure Python stdlib + SQLite
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Now exploring</h3>
+      <p>Agent harnesses, multi-agent orchestration, coding agents, and systematic agent evaluation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Building with</h3>
+      <p>Java and Python across Spring AI, FastAPI, LangGraph, LangChain, Neo4j, Docker, and the Model Context Protocol.</p>
+    </td>
+  </tr>
 </table>
 
-### 🌍 Open Source Contributions
+## `> featured_work`
 
-| Project | PR | Status |
-|:--------|:---|:------:|
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [#681](https://github.com/alibaba/open-code-review/pull/681) refactor(test): replace custom string helpers with strings.Contains | 🔵 Open |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [#8364](https://github.com/QwenLM/qwen-code/pull/8364) feat(omni): managed media storage with GC & upload cache | 🔵 Open |
-| [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [#6](https://github.com/QoderAI/better-harness/pull/6) feat(host): add Qwen Code host adapter | ✅ Merged |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [#1266](https://github.com/bytedance/deer-flow/pull/1266) docs: 添加本地启动指南文档 | ✅ Merged |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GCGH159/oss-radar"><img src="https://img.shields.io/badge/OSS%20Radar-Open%20source%20contribution%20workbench-2563EB?style=for-the-badge&labelColor=0F172A" alt="OSS Radar" /></a>
+      <br /><br />
+      Discover contribution opportunities, follow PR review status, and claim issues from a focused Python and SQLite CLI. Built for contributors who want signal instead of tab overload.
+      <br /><br />
+      <a href="https://github.com/GCGH159/oss-radar">Explore the repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GCGH159/graph-rag-agent"><img src="https://img.shields.io/badge/Graph%20RAG%20Agent-Retrieval%20with%20reasoning-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Graph RAG Agent" /></a>
+      <br /><br />
+      A private-domain RAG exploration combining GraphRAG, LightRAG, and Neo4j to move beyond keyword matching toward relationship-aware retrieval.
+      <br /><br />
+      <a href="https://github.com/GCGH159/graph-rag-agent">Explore the repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GCGH159/neo4j_langchain"><img src="https://img.shields.io/badge/Neo4j%20%2B%20LangChain-Knowledge%20graph%20construction-0891B2?style=for-the-badge&labelColor=0F172A" alt="Neo4j and LangChain" /></a>
+      <br /><br />
+      Experiments and implementation patterns for building knowledge graphs with LangChain and Neo4j.
+      <br /><br />
+      <a href="https://github.com/GCGH159/neo4j_langchain">Explore the repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GCGH159/multi-agent-texas-holdEM"><img src="https://img.shields.io/badge/Multi--Agent%20Hold'em-LLM%20players%20at%20the%20table-DB2777?style=for-the-badge&labelColor=0F172A" alt="Multi-Agent Texas Hold'em" /></a>
+      <br /><br />
+      A playful multi-agent environment using LLM players to explore agent interaction, strategy, and emergent behavior.
+      <br /><br />
+      <a href="https://github.com/GCGH159/multi-agent-texas-holdEM">Explore the repository →</a>
+    </td>
+  </tr>
+</table>
 
-### 🚀 My Projects
+<p align="right"><a href="https://github.com/GCGH159?tab=repositories">Browse all repositories →</a></p>
 
-- **[oss-radar](https://github.com/GCGH159/oss-radar)** 🛰️ — Open-source contribution workbench (maintainer)
-- **[graph-rag-agent](https://github.com/GCGH159/graph-rag-agent)** — GraphRAG + LightRAG + Neo4j fusion for private-domain RAG reasoning
-- **[neo4j_langchain](https://github.com/GCGH159/neo4j_langchain)** — Knowledge graph construction with LangChain + Neo4j
-- **[multi-agent-texas-holdEM](https://github.com/GCGH159/multi-agent-texas-holdEM)** — Multi-agent Texas Hold'em game with LLM players
-- **[deepagents](https://github.com/GCGH159/deepagents)** — Deep agent architecture exploration
-- **[ai_galmage](https://github.com/GCGH159/ai_galmage)** — AI-powered galgame engine 🎮
+## `> open_source`
 
-### 🛠️ Tech Stack
+I contribute where I can add durable value: small quality-of-life fixes, documentation that removes friction, and features that make AI developer tools more capable.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+| Project | Contribution | State |
+|:--|:--|:--|
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [Refactored test string helpers](https://github.com/alibaba/open-code-review/pull/681) | Open |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [Managed media storage with GC and upload cache](https://github.com/QwenLM/qwen-code/pull/8364) | Open |
+| [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [Qwen Code host adapter](https://github.com/QoderAI/better-harness/pull/6) | Merged |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [Local start guide](https://github.com/bytedance/deer-flow/pull/1266) | Merged |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+## `> stack --current`
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring-0F172A?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Neo4j-0F172A?style=for-the-badge&logo=neo4j&logoColor=60A5FA" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Model Context Protocol" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GCGH159&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCGH159&theme=radical&layout=compact&hide_border=true" alt="langs" height="165"/>
-</p>
+## `> github --telemetry`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GCGH159&theme=radical&hide_border=true" alt="streak" />
-</p>
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GCGH159&show_icons=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&border_color=334155&rank_icon=github&include_all_commits=true&hide_border=false" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCGH159&layout=compact&theme=transparent&title_color=60A5FA&text_color=CBD5E1&border_color=334155&hide_border=false" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=GCGH159&theme=transparent&hide_border=false&border=334155&ring=60A5FA&fire=A78BFA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+</div>
 
-### 🐍 Contribution Snake
+## `> contribution_map`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GCGH159/GCGH159/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GCGH159/GCGH159/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</div>
 
-### 🏆 Trophies
+<br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GCGH159&theme=radical&no-frame=true&column=7" alt="trophy" />
-</p>
+<div align="center">
+  <sub>Always open to a thoughtful technical conversation or a useful open-source collaboration.</sub>
+  <br /><br />
+  <a href="https://github.com/GCGH159"><img src="https://img.shields.io/badge/Connect%20on-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+</div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="Footer" />
