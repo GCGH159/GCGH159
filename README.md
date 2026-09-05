@@ -79,9 +79,11 @@ I contribute where I can add durable value: small quality-of-life fixes, documen
 | Project | Contribution | State |
 |:--|:--|:--|
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [Refactored test string helpers](https://github.com/alibaba/open-code-review/pull/681) | Merged |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [Reject ambiguous `send_message` destinations](https://github.com/QwenLM/qwen-code/pull/10090) | Merged |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [Managed media storage with GC and upload cache](https://github.com/QwenLM/qwen-code/pull/8364) | Open |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [Qwen Code host adapter](https://github.com/QoderAI/better-harness/pull/6) | Merged |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [Local start guide](https://github.com/bytedance/deer-flow/pull/1266) | Merged |
+| [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [Internationalize the browser UI](https://github.com/QoderAI/better-harness/pull/128) | Merged |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [Local start guide](https://github.com/bytedance/deer-flow/pull/1266) | Closed |
 
 ## `> stack --current`
 
