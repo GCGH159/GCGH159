@@ -83,7 +83,7 @@ I contribute where I can add durable value: small quality-of-life fixes, documen
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [Managed media storage with GC and upload cache](https://github.com/QwenLM/qwen-code/pull/8364) | Open |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [Qwen Code host adapter](https://github.com/QoderAI/better-harness/pull/6) | Merged |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | [Internationalize the browser UI](https://github.com/QoderAI/better-harness/pull/128) | Merged |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [Local start guide](https://github.com/bytedance/deer-flow/pull/1266) | Closed |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [Local start guide](https://github.com/bytedance/deer-flow/pull/1266) | Merged |
 
 ## `> stack --current`
 
